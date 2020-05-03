@@ -1,7 +1,7 @@
 ## Datasciensyash code for ICLR Workshop Challenge #2: Radiant Earth Computer Vision for Crop Detection from Satellite Imagery.
 
 **Original competition data must be stored in data\ folder.**
-The original data is too large for me to send along with the solution.
+The original data is too large for GitHub. Check [competition](https://zindi.africa/competitions/iclr-workshop-challenge-2-radiant-earth-computer-vision-for-crop-recognition/leaderboard) for data and description.
 Data folder structure has not been changed:
 ```
 data\
@@ -20,6 +20,11 @@ pandas
 pytorch
 matploitlib
 lightgbm
+PyTorch
+```
+You can install it simply run following command:
+```
+pip3 install -r requirements.txt
 ```
 
 Files in this solution:
